@@ -1,0 +1,75 @@
+Log created: 2020-02-17 16:41:29
+Type: backup
+[2020-02-17 16:41:42][notice]Start backing up.
+[2020-02-17 16:41:42][notice]server info fcgi:Off max execution time: 900 wp version:5.3.2 php version:7.1.31 db version:5.7.27 php ini:safe_mode: memory_limit:256M memory_get_usage:45.68 MB memory_get_peak_usage:46.08 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2020-02-17 16:41:42][notice]Prepare to backup backup_db files.
+[2020-02-17 16:41:42][notice]Start exporting database.
+[2020-02-17 16:41:42][notice]max_allowed_packet less than 32M :4.00 MB
+[2020-02-17 16:41:42][notice]Preparing to dump table wp_commentmeta
+[2020-02-17 16:41:42][notice]Preparing to dump table wp_comments
+[2020-02-17 16:41:43][notice]Preparing to dump table wp_links
+[2020-02-17 16:41:43][notice]Preparing to dump table wp_options
+[2020-02-17 16:41:43][notice]Preparing to dump table wp_postmeta
+[2020-02-17 16:41:44][notice]Preparing to dump table wp_posts
+[2020-02-17 16:41:44][notice]Preparing to dump table wp_term_relationships
+[2020-02-17 16:41:44][notice]Preparing to dump table wp_term_taxonomy
+[2020-02-17 16:41:44][notice]Preparing to dump table wp_termmeta
+[2020-02-17 16:41:44][notice]Preparing to dump table wp_terms
+[2020-02-17 16:41:45][notice]Preparing to dump table wp_usermeta
+[2020-02-17 16:41:45][notice]Preparing to dump table wp_users
+[2020-02-17 16:41:45][notice]Exporting database finished.
+[2020-02-17 16:41:45][notice]Start compressing backup_db
+[2020-02-17 16:41:45][notice]Prepare to zip files. file: localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_db.zip
+[2020-02-17 16:41:45][notice]Adding zip files completed.localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_db.zip, filesize: 1.73 MB
+[2020-02-17 16:41:45][notice]Compressing backup_db completed
+[2020-02-17 16:41:45][notice]Backing up backup_db completed.
+[2020-02-17 16:41:46][notice]Prepare to backup backup_themes files.
+[2020-02-17 16:41:46][notice]File number: 670
+[2020-02-17 16:41:46][notice]Start compressing backup_themes
+[2020-02-17 16:41:47][notice]Prepare to zip files. file: localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_themes.zip
+[2020-02-17 16:41:56][notice]Adding zip files completed.localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_themes.zip, filesize: 9.17 MB
+[2020-02-17 16:41:56][notice]Compressing backup_themes completed
+[2020-02-17 16:41:56][notice]Backing up backup_themes completed.
+[2020-02-17 16:41:58][notice]Prepare to backup backup_plugin files.
+[2020-02-17 16:41:58][notice]File number: 1738
+[2020-02-17 16:41:58][notice]Start compressing backup_plugin
+[2020-02-17 16:42:01][notice]Prepare to zip files. file: localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_plugin.zip
+[2020-02-17 16:42:25][notice]Adding zip files completed.localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_plugin.zip, filesize: 30.13 MB
+[2020-02-17 16:42:25][notice]Compressing backup_plugin completed
+[2020-02-17 16:42:25][notice]Backing up backup_plugin completed.
+[2020-02-17 16:42:26][notice]Prepare to backup backup_uploads files.
+[2020-02-17 16:42:26][notice]File number: 333
+[2020-02-17 16:42:26][notice]Start compressing backup_uploads
+[2020-02-17 16:42:27][notice]Prepare to zip files. file: localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_uploads.zip
+[2020-02-17 16:42:33][notice]Adding zip files completed.localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_uploads.zip, filesize: 19.43 MB
+[2020-02-17 16:42:33][notice]Compressing backup_uploads completed
+[2020-02-17 16:42:33][notice]Backing up backup_uploads completed.
+[2020-02-17 16:42:34][notice]Prepare to backup backup_content files.
+[2020-02-17 16:42:34][notice]File number: 1
+[2020-02-17 16:42:34][notice]Start compressing backup_content
+[2020-02-17 16:42:34][notice]Prepare to zip files. file: localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_content.zip
+[2020-02-17 16:42:34][notice]Adding zip files completed.localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_content.zip, filesize: 404.00 B
+[2020-02-17 16:42:34][notice]Compressing backup_content completed
+[2020-02-17 16:42:34][notice]Backing up backup_content completed.
+[2020-02-17 16:42:36][notice]Prepare to backup backup_core files.
+[2020-02-17 16:42:36][notice]File number: 1648
+[2020-02-17 16:42:36][notice]Start compressing backup_core
+[2020-02-17 16:42:39][notice]Prepare to zip files. file: localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_core.zip
+[2020-02-17 16:43:02][notice]Adding zip files completed.localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_core.zip, filesize: 38.08 MB
+[2020-02-17 16:43:02][notice]Compressing backup_core completed
+[2020-02-17 16:43:02][notice]Backing up backup_core completed.
+[2020-02-17 16:43:02][notice]Prepare to backup backup_merge files.
+[2020-02-17 16:43:02][notice]File number: 6
+[2020-02-17 16:43:02][notice]Start compressing backup_merge
+[2020-02-17 16:43:02][notice]Prepare to zip files. file: localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_all.zip
+[2020-02-17 16:43:12][notice]Adding zip files completed.localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_all.zip, filesize: 49.72 MB
+[2020-02-17 16:43:12][notice]Cleaned up file, filename: C:\xampp\htdocs\Alfaruq/wp-content\wpvividbackups\localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_core.zip
+[2020-02-17 16:43:12][notice]Cleaned up file, filename: C:\xampp\htdocs\Alfaruq/wp-content\wpvividbackups\localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_plugin.zip
+[2020-02-17 16:43:12][notice]Cleaned up file, filename: C:\xampp\htdocs\Alfaruq/wp-content\wpvividbackups\localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_uploads.zip
+[2020-02-17 16:43:12][notice]Cleaned up file, filename: C:\xampp\htdocs\Alfaruq/wp-content\wpvividbackups\localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_themes.zip
+[2020-02-17 16:43:12][notice]Cleaned up file, filename: C:\xampp\htdocs\Alfaruq/wp-content\wpvividbackups\localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_db.zip
+[2020-02-17 16:43:12][notice]Cleaned up file, filename: C:\xampp\htdocs\Alfaruq/wp-content\wpvividbackups\localhost_alfaruq_wpvivid-5e4ac2390cac6_2020-02-17-16-41_backup_content.zip
+[2020-02-17 16:43:12][notice]Compressing backup_merge completed
+[2020-02-17 16:43:12][notice]Backing up backup_merge completed.
+[2020-02-17 16:43:13][notice]Backup completed.
+[2020-02-17 16:43:13][notice]Backup succeeded.
